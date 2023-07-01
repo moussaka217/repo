@@ -1,4 +1,4 @@
 {
-   "checkCpa": "yes",
-   "checkCrash" : "no"
+   "checkCpa": "no",
+   "checkCrash" : "yes"
 }
